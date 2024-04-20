@@ -1,5 +1,5 @@
 # Fract'ol
-
+<pre>
 Usage: fractol [OPTION]
   -fm                   render Mandelbrot
   -fj                   render Julia with default values
@@ -32,7 +32,4 @@ NOTE: increasing ZOOM or ITERACTIONS will also increase render time.
       of double is reached, no further quality is possible.
 
 cjoao-de@42lisboa
-
-
-// todo clean include file
-// todo copy keypress references
+</pre>
